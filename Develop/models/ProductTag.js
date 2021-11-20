@@ -18,7 +18,6 @@ ProductTag.init(
         model: 'product',
         key: 'id',
         unique: false,
-        onDelete: 'cascade'
       }
   },
   tag_id: {
@@ -27,7 +26,6 @@ ProductTag.init(
       model: 'tag',
       key: 'id',
       unique: false,
-      onDelete: 'cascade'
     }
   }
 },

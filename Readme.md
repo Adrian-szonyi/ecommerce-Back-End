@@ -16,7 +16,7 @@
 ## Description
 
 An E-Commerce database using Sequelize that stores categories, products and tags for products. Each category has multiple products and each product can have multiple tags. Tags can also belong to multiple different products. Routes are set up so that users can update, create, delete and get specific or all products, categories and tags.
-screen recording demo: [click_here]()
+screen recording demo: [click_here](https://watch.screencastify.com/v/YeueBmrUPwocqh87f4Mk)
 
 ## Installation
 
